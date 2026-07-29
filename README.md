@@ -1,45 +1,47 @@
-# 🧮 Calculator CLI Python
-
-A simple command-line calculator built with Python to practice programming fundamentals, functions, loops, conditionals and error handling.
-
-## 🚀 Features
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Division by zero validation
-- Continuous execution with exit option
-
-## 🛠️ Technologies
-
-- Python 3
-
-## 📚 Concepts Practiced
-
-- Functions (`def`)
-- Function parameters
-- Conditional statements (`if/elif/else`)
-- Loops (`while`)
-- User input handling
-- Basic error handling
-
 ## 💻 Example
 
+```text
+Enter the first number: 10
 
-Digite o primeiro número: 10
-
-Escolha uma opção:
+Choose an option:
 1 - Addition
 2 - Subtraction
 3 - Multiplication
 4 - Division
 
+Enter your choice: 3
+
+Enter the second number: 5
+
+Result: 50
+
+### Opção 2 — Mostrar o programa real
+
+Aí mantém português porque seu programa realmente imprime:
+
+```text
+Digite o primeiro número: 10
+
+Mas eu colocaria uma observação:
+
+## 💻 Example
+
+Example output from the application:
+
+```text
+Digite o primeiro número: 10
+
+Escolha uma opção abaixo:
+1 - Opção (1): soma
+2 - Opção (2): subtração
+3 - Opção (3): multiplicação
+4 - Opção (4): divisão
+
 Digite sua escolha: 3
 
 Digite o segundo número: 5
 
-Result: 50
+50
 
 
 ## ▶️ How to Run
