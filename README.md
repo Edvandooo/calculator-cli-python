@@ -1,6 +1,6 @@
 # 🧮 Calculator CLI Python
 
-A simple CLI calculator built with Python to practice functions, loops, conditionals and error handling.
+A simple command-line calculator built with Python to practice programming fundamentals, functions, loops, conditionals and error handling.
 
 ## 🚀 Features
 
@@ -15,16 +15,45 @@ A simple CLI calculator built with Python to practice functions, loops, conditio
 
 - Python 3
 
-## 📚 Concepts practiced
+## 📚 Concepts Practiced
 
 - Functions (`def`)
-- Parameters
+- Function parameters
 - Conditional statements (`if/elif/else`)
 - Loops (`while`)
 - User input handling
-- Basic error prevention
+- Basic error handling
 
-## ▶️ How to run
+## 💻 Example
+
+
+Digite o primeiro número: 10
+
+Escolha uma opção:
+1 - Addition
+2 - Subtraction
+3 - Multiplication
+4 - Division
+
+Digite sua escolha: 3
+
+Digite o segundo número: 5
+
+Result: 50
+
+
+## ▶️ How to Run
+
+### 1. Clone the repository
 
 ```bash
-python calculator.py
+git clone https://github.com/Edvandooo/calculator-cli-python.git
+2. Enter the project folder
+cd calculator-cli-python
+3. Run the calculator
+python cli_calculator.py
+
+
+📌 About
+
+This project was developed to practice Python fundamentals and improve programming logic through a simple CLI calculator.
